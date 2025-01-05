@@ -5,4 +5,6 @@ To detect fraudulent or non-fraudulent activities, we use the Probability Densit
 We compute the product of all the probabilities. Finaly we fix a Threshold to decide whether an observation is considered "fraudulent" or "non-fraudulent"
 
 
+![image](https://github.com/user-attachments/assets/54b0a241-0917-40ca-bd2e-2ece2d930cbb)
+
 
